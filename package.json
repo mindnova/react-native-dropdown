@@ -1,28 +1,84 @@
 {
-  "name": "react-native-dropdown",
-  "version": "0.0.6",
+  "_args": [
+    [
+      {
+        "name": "react-native-dropdown",
+        "raw": "react-native-dropdown",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/dumeng/projects/web/react/react-native/AwesomeProject"
+    ]
+  ],
+  "_from": "react-native-dropdown@latest",
+  "_id": "react-native-dropdown@0.0.6",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-dropdown",
+  "_nodeVersion": "5.1.1",
+  "_npmUser": {
+    "email": "a.najafizadeh@gmail.com",
+    "name": "alinz"
+  },
+  "_npmVersion": "2.14.14",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-dropdown",
+    "raw": "react-native-dropdown",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-dropdown/-/react-native-dropdown-0.0.6.tgz",
+  "_shasum": "f4b899b4082c4823340c7377fbe73bc01399148d",
+  "_shrinkwrap": null,
+  "_spec": "react-native-dropdown",
+  "_where": "/Users/dumeng/projects/web/react/react-native/AwesomeProject",
+  "author": {
+    "email": "a.najafizadeh@gmail.com",
+    "name": "Ali Najafizadeh",
+    "url": "http://github.com/alinz"
+  },
+  "bugs": {
+    "url": "https://github.com/alinz/react-native-dropdown"
+  },
+  "dependencies": {},
   "description": "A better Select dropdown menu for react-native",
-  "main": "lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f4b899b4082c4823340c7377fbe73bc01399148d",
+    "tarball": "https://registry.npmjs.org/react-native-dropdown/-/react-native-dropdown-0.0.6.tgz"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:alinz/react-native-dropdown.git"
-  },
+  "gitHead": "3eb79cf14e19807a4427a75f34a329bb92650ef9",
+  "homepage": "https://github.com/alinz/react-native-dropdown",
   "keywords": [
     "react-component",
     "react-native"
   ],
-  "author": {
-    "name": "Ali Najafizadeh",
-    "email": "a.najafizadeh@gmail.com",
-    "url": "http://github.com/alinz"
-  },
-  "contributors" : ["Azhar khan <azhar.mw@gmail.com>"],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alinz/react-native-dropdown"
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "email": "a.najafizadeh@gmail.com",
+      "name": "alinz"
+    }
+  ],
+  "name": "react-native-dropdown",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alinz/react-native-dropdown.git"
   },
-  "homepage": "https://github.com/alinz/react-native-dropdown"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.6"
 }
